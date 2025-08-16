@@ -1,0 +1,8 @@
+title: "CS-499"
+description: "CS 499 ePortfolio"
+url: "https://dditrichs.github.io" 
+
+remote_theme: alshedivat/al-folio@main
+
+plugins:
+  - jekyll-remote-theme
