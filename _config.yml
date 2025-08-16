@@ -6,3 +6,5 @@ remote_theme: alshedivat/al-folio@main
 
 plugins:
   - jekyll-remote-theme
+
+content_width: 800px
